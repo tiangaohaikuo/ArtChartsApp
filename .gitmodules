@@ -1,0 +1,3 @@
+[submodule "app/plugin/react-native-art-charts"]
+	path = app/containers/bi
+	url = https://github.com/tiangaohaikuo/react-native-art-charts.git
