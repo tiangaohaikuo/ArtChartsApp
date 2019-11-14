@@ -54,5 +54,3 @@ buck-out/
 
 .update
 
-yarn.lock
-package-lock.json
